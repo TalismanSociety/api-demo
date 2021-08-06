@@ -1,0 +1,12 @@
+[submodule "src/api"]
+	path = src/@talisman/api
+	url = git@github.com:TalismanSociety/api.git
+[submodule "src/@talisman/api-react-hooks"]
+	path = src/@talisman/api-react-hooks
+	url = git@github.com:TalismanSociety/api-react-hooks.git
+[submodule "src/@talisman/chaindata-js"]
+	path = src/@talisman/chaindata-js
+	url = git@github.com:TalismanSociety/chaindata-js.git
+[submodule "src/@talisman/util"]
+	path = src/@talisman/util
+	url = git@github.com:TalismanSociety/util.git
