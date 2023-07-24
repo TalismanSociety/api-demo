@@ -1,3 +1,7 @@
+>
+> [This repo has been superseded by chaindata](https://github.com/TalismanSociety/chaindata)
+>
+
 # 📁 Chaindata JS Demo App
 This is a simple demo app using the @talisman/api lib to showcase the basic functionality of fetching balances across multiple addresses and chains
 
